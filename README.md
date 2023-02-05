@@ -57,7 +57,7 @@ python maskrcnn_train.py --data_root='/home/divinetechkim_pro/nia_maskrcnn/mask/
 tensorboard --logdir ./tutorial_exps/tf_logs/
 ```
 
-<img src='./Readme_Image/tensorboard_Img.png'>
+<img src='./Readme_Image/tensorboard_img.png'>
 
 <br><br>
 
